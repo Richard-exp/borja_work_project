@@ -20,3 +20,4 @@ Let`s do it together!:)
    - How to charge 18650 batteries - https://batterymanguide.com/how-to-charge-a-18650-battery/#:~:text=4%20Ways%20to%20Charge%20an%2018%2C650%20Battery%201,...%204%204.%20Use%20of%20a%20Solar%20Panel
    - Small documentatio for DC motors - https://wiki-content.arduino.cc/documents/datasheets/T010160_DCmotor6_9V.pdf
    - How H-Bridge works - https://www.build-electronic-circuits.com/h-bridge/ 
+   - 9V battery documentation - https://data.energizer.com/pdfs/522.pdf 
