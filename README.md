@@ -21,3 +21,5 @@ Let`s do it together!:)
    - Small documentatio for DC motors - https://wiki-content.arduino.cc/documents/datasheets/T010160_DCmotor6_9V.pdf
    - How H-Bridge works - https://www.build-electronic-circuits.com/h-bridge/ 
    - 9V battery documentation - https://data.energizer.com/pdfs/522.pdf 
+### 4. Notes
+![photo_2023-07-29_20-38-47](https://github.com/Richard-exp/borja_work_project/assets/82885191/63d00fe1-0844-4483-ad0d-19cd23603ec9)
